@@ -1,4 +1,4 @@
-# Deploy a People Counter App at the Edge
+# OpenVino For People Counter
 
 | Details            |              |
 |-----------------------|---------------|
