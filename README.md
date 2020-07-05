@@ -22,9 +22,8 @@ You will choose a model to use and convert it with the Model Optimizer.
 
 ### Hardware
 
-* 6th to 10th generation Intel® Core™ processor with Iris® Pro graphics or Intel® HD Graphics.
+* 5th to 10th generation Intel® Core™ processor with Iris® Pro graphics or Intel® HD Graphics.
 * OR use of Intel® Neural Compute Stick 2 (NCS2)
-* OR Udacity classroom workspace for the related course
 
 ### Software
 
